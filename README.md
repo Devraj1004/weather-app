@@ -1,29 +1,46 @@
-# 🌤️ Weather App - React
+# 🌤️ Weather App — React.js
 
-A beautiful React Weather App with animated backgrounds based on real-time weather and time of day. Built to impress recruiters and HRs!
+A stunning, responsive weather application built using **React** and the **OpenWeatherMap API**. This project combines real-time weather data with animated dynamic backgrounds based on weather conditions and time of day — perfect to showcase your frontend skills! ⚡
 
-## 🚀 Features
+🔗 **Live Demo:**  
+👉 [https://devraj1004.github.io/weather-app/](https://devraj1004.github.io/weather-app/)
 
-- 🌇 Dynamic backgrounds (sunrise, sunset, day, night)
-- 🌈 Weather-based themes (rain, snow, clouds, fog, etc.)
-- 🌤️ Live temperature, weather icon & conditions
-- 🔁 Mock hourly forecast preview
-- 💅 Modern, responsive glassmorphic UI
+---
+
+## ✨ Features
+
+- 🌇 **Dynamic backgrounds** (sunrise, sunset, day, night)
+- 🌦️ **Weather-based themes** (rain, snow, fog, cloudy, etc.)
+- 🌡️ **Live temperature**, weather icon & condition
+- 📊 **Mock hourly forecast** layout (realistic UI)
+- 💅 **Glassmorphism UI** with blur, transparency, and shadows
+- 🧠 Smart UI changes based on **temperature & conditions**
+- 🔥 Fully responsive on desktop and mobile devices
+
+---
 
 ## 🛠️ Tech Stack
 
-- React.js (Vite or CRA)
-- OpenWeatherMap API
-- CSS3 (Glassmorphism + Keyframes)
+| Tech | Use |
+|------|-----|
+| **React.js (CRA)** | UI + state handling |
+| **OpenWeatherMap API** | Real-time weather data |
+| **HTML5 & CSS3** | UI & layout |
+| **JavaScript (ES6+)** | Dynamic logic |
+| **GitHub Pages** | Free deployment |
+
+---
 
 ## 📸 Preview
 
-![App Screenshot](./Screenshot%202025-07-01%20164214.png)
+![App Screenshot](https://raw.githubusercontent.com/Devraj1004/weather-app/main/Screenshot%202025-07-01%20164214.png)
+
+---
 
 ## 📦 Setup Instructions
 
 ```bash
-git clone https://github.com/your-username/react-weather-app.git
-cd react-weather-app
+git clone https://github.com/Devraj1004/weather-app.git
+cd weather-app
 npm install
 npm start
