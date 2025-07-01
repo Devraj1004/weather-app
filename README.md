@@ -18,7 +18,7 @@ A beautiful React Weather App with animated backgrounds based on real-time weath
 
 ## 📸 Preview
 
-![App Screenshot](![image](https://github.com/user-attachments/assets/2bbb1ab3-a4a4-4cc2-a892-c34c999d69e2)
+![App Screenshot](![image][(https://github.com/user-attachments/assets/2bbb1ab3-a4a4-4cc2-a892-c34c999d69e2)](https://github.com/Devraj1004/weather-app/blob/main/Screenshot%202025-07-01%20164214.png)
 )
 
 ## 📦 Setup Instructions
